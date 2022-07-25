@@ -31,9 +31,13 @@ You can use `switch` at the top right of the editor to alternate between themes.
 
 ### Version Control
 
-- v1.0
+- v0.1.0
+
   - Deployed github.
   - Basic features implemented.
+
+- v0.1.1
+  - changed marketplace icon
 
 Thank YOU
 

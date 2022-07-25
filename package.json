@@ -3,8 +3,13 @@
   "displayName": "toggle theme",
   "description": "Togle between dark theme and light theme",
   "version": "0.0.1",
+  "publisher": "AhmetEnesKCC",
+  "icon": "icons/market/sun.png",
   "engines": {
     "vscode": "^1.69.0"
+  },
+  "repository": {
+    "url": "https://github.com/AhmetEnesKCC/toggle-theme"
   },
   "categories": [
     "Other"
